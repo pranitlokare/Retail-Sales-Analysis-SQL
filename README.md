@@ -11,7 +11,6 @@ A structured SQL project that explores **1,997 retail transactions** spanning 2 
 - [Data Cleaning](#-data-cleaning)
 - [Analysis Queries](#-analysis-queries)
 - [Key Findings](#-key-findings)
-- [Data Source](#-data-source)
 
 ---
 
@@ -139,7 +138,3 @@ Used `RANK()` window function partitioned by year to find peak months by average
 - **Aggregate Functions** — `SUM`, `AVG`, `COUNT`, `DISTINCT`
 
 ---
-
-## 🗃️ Data Source
-
-📂 Dataset: [Retail Sales Dataset — Kaggle](https://www.kaggle.com/)
